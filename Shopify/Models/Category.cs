@@ -1,3 +1,5 @@
+using System.Collections.ObjectModel;
+
 namespace Shopify.Models;
 
 public class Category
